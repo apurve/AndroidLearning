@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cardData>
+	<cards class="java.util.ArrayList">
+
+		<c d="0">
+			<n>rose_1.jpg</n>
+		</c>
+		<c d="0">
+			<n>rose_2.jpg</n>
+		</c>
+		<c d="0">
+			<n>rose_3.jpg</n>
+		</c>
+		<c d="0">
+			<n>rose_4.jpg</n>
+		</c>
+		<c d="0">
+			<n>rose_5.jpg</n>
+		</c>
+		<c d="1">
+			<n>propose_1.jpg</n>
+		</c>
+		<c d="1">
+			<n>propose_2.jpg</n>
+		</c>
+		<c d="1">
+			<n>propose_3.jpg</n>
+		</c>
+		<c d="1">
+			<n>propose_4.jpg</n>
+		</c>
+		<c d="1">
+			<n>propose_5.jpg</n>
+		</c>
+		<c d="2">
+			<n>chocolate_1.jpg</n>
+		</c>
+		<c d="2">
+			<n>chocolate_2.jpg</n>
+		</c>
+		<c d="2">
+			<n>chocolate_3.jpg</n>
+		</c>
+		<c d="2">
+			<n>chocolate_4.jpg</n>
+		</c>
+		<c d="2">
+			<n>chocolate_5.jpg</n>
+		</c>
+		<c d="3">
+			<n>teddy_1.jpg</n>
+		</c>
+		<c d="3">
+			<n>teddy_2.jpg</n>
+		</c>
+		<c d="3">
+			<n>teddy_3.jpg</n>
+		</c>
+		<c d="3">
+			<n>teddy_4.jpg</n>
+		</c>
+		<c d="3">
+			<n>teddy_5.jpg</n>
+		</c>
+		<c d="4">
+			<n>promise_1.jpg</n>
+		</c>
+		<c d="4">
+			<n>promise_2.jpg</n>
+		</c>
+		<c d="4">
+			<n>promise_3.jpg</n>
+		</c>
+		<c d="4">
+			<n>promise_4.jpg</n>
+		</c>
+		<c d="4">
+			<n>promise_5.jpg</n>
+		</c>
+		<c d="5">
+			<n>hug_1.jpg</n>
+		</c>
+		<c d="5">
+			<n>hug_2.jpg</n>
+		</c>
+		<c d="5">
+			<n>hug_3.jpg</n>
+		</c>
+		<c d="5">
+			<n>hug_4.jpg</n>
+		</c>
+		<c d="5">
+			<n>hug_5.jpg</n>
+		</c>
+		<c d="6">
+			<n>kiss_1.jpg</n>
+		</c>
+		<c d="6">
+			<n>kiss_2.jpg</n>
+		</c>
+		<c d="6">
+			<n>kiss_3.jpg</n>
+		</c>
+		<c d="6">
+			<n>kiss_4.jpg</n>
+		</c>
+		<c d="6">
+			<n>kiss_5.jpg</n>
+		</c>
+		<c d="7">
+			<n>valentine_1.jpg</n>
+		</c>
+		<c d="7">
+			<n>valentine_2.jpg</n>
+		</c>
+		<c d="7">
+			<n>valentine_3.jpg</n>
+		</c>
+		<c d="7">
+			<n>valentine_4.jpg</n>
+		</c>
+		<c d="7">
+			<n>valentine_5.jpg</n>
+		</c>
+	</cards>
+</cardData>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Valentine Dove</string>
+	<string name="action_settings">Settings</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="home_credits">
+		Brought to you by
+		<a href="http://www.gotechy.in/">GoTechy</a>
+	</string>
+	<string name="button_texts">Valentine Texts</string>
+	<string name="button_cards">Valentine Cards</string>
+	<string name="button_about_valentine">About Valentine</string>
+	<string name="button_about_us">About Us</string>
+	<string name="summary_here">Summary Here</string>
+	<string name="image_tpe">image/*</string>
+	<string name="about_us">Gotechy is a group of highly motivated, extremely talented, internationally
+		certified professionals who work together as a team to bring the
+		dreams and thoughts of our customers to life.
+		\n\nWe develop E-Commerce Solutions compatible with smartphones/tablets,
+		mobile aplications to help you reach the customers and maintain the  wonderful user experiences.	
+		\n\nVisit us at <a href="http://www.gotechy.in/">website</a> or <a href="http://www.facebook.com/GoTechy.in">facebook page</a>.
+		\n\n<i>No Copyright Intended.</i>
+	</string>
+
+</resources>
